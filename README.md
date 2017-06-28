@@ -11,3 +11,7 @@ Coding journey
 ** On The Docket ** <br>
 The beginnings of a to-do-list project <br>
 [On The Docket](http://varietystudios.com/programming/JS/on-the-docket/)
+
+** Basic Calculator ** <br>
+Basic functions of a calculator <br>
+[Calculator](http://varietystudios.com/programming/JS/calculator/)
